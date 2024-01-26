@@ -1,7 +1,7 @@
 # Sistema de Gerenciamento de Usuários com Manipulação de Arquivos TXT
 ## Funcionalidades
 ### Cadastro de Usuário:
-O programa permite o cadastro de usuários, coletando informações como nome, idade, e outras características relevantes.
+O programa permite o cadastro de usuários, coletando informações como e-mail, senha, e outras características relevantes.
 
 ### Remoção de Usuário:
 Oferece a funcionalidade de remover um usuário específico do sistema, mantendo a integridade dos dados.
